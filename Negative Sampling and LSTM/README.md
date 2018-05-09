@@ -1,3 +1,5 @@
+# Not completed yet 
+
 # Seq2Seq with Attention on Chinese Poetry Generation
 
 1. Use skipgram model to generate word embedding
